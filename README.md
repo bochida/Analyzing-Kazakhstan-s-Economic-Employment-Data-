@@ -7,36 +7,36 @@ Project Analyzing Kazakhstan’s Economic &amp; Employment Data for 2024 IV Quar
 The large dataset provided by https://stat.gov.kz/ divided by multiple sections that we can use in analyzing special insights more accuratly and select each data for each task. 
 
 Key tables that i used for this project:
-1.Population by labor force participation status and age
-2.Employed population
-3.Employed population by employment status and age
-4.Main indicators of the labor market of the Republic of Kazakhstan in Q4 2024
-5.Regional labor trends
-6.Income inequality & wages
+1.Population by labor force participation status and age<br />
+2.Employed population<br />
+3.Employed population by employment status and age<br />
+4.Main indicators of the labor market of the Republic of Kazakhstan in Q4 2024<br />
+5.Regional labor trends<br />
+6.Income inequality & wages<br />
 
-📊 Key Analyses
-1️⃣ Labor Force & Employment Trends
-✔ Workforce participation rates by age & education
-✔ Employment distribution by economic activity
-✔ Gender-based employment differences
+📊 Key Analyses<br />
+1️⃣ Labor Force & Employment Trends<br />
+✔ Workforce participation rates by age & education<br />
+✔ Employment distribution by economic activity<br />
+✔ Gender-based employment differences<br />
 
-2️⃣ Unemployment Insights
-✔ Unemployment rates across age groups
-✔ Duration of job search by age & education
-✔ Main reasons for unemployment
+2️⃣ Unemployment Insights<br />
+✔ Unemployment rates across age groups<br />
+✔ Duration of job search by age & education<br />
+✔ Main reasons for unemployment<br />
 
-3️⃣ Wage & Income Distribution
-✔ Wage gaps between different employment types
-✔ Formal vs. informal employment wage differences
-✔ Regional income disparities
+3️⃣ Wage & Income Distribution<br />
+✔ Wage gaps between different employment types<br />
+✔ Formal vs. informal employment wage differences<br />
+✔ Regional income disparities<br />
 
-4️⃣ Regional Disparities in Employment
-✔ Comparison of employment & unemployment rates across regions
-✔ Identification of regions with highest labor force participation
-✔ Telecommuting workforce trends
+4️⃣ Regional Disparities in Employment<br />
+✔ Comparison of employment & unemployment rates across regions<br />
+✔ Identification of regions with highest labor force participation<br />
+✔ Telecommuting workforce trends<br />
 
-🛠️ Tools & Technologies
-Python (Pandas, Matplotlib, Seaborn, Plotly) for data analysis
-Power BI for data visualization and dashboard creation
-GitHub for project version control
+🛠️ Tools & Technologies<br />
+Python (Pandas, Matplotlib, Seaborn, Plotly) for data analysis<br />
+Power BI for data visualization and dashboard creation<br />
+GitHub for project version control<br />
 
