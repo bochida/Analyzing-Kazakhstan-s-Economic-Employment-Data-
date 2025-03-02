@@ -1,12 +1,12 @@
 # Analyzing-Kazakhstan-s-Economic-Employment-Data-
-📌 Project Overview
-Project Analyzing Kazakhstan’s Economic &amp; Employment Data for 2024 IV Quarter. With tools Excel, Python, SQL, Power BI i will provide detailed analysis. The project explores key job market trends in Kazakhstan, analyzing employment, unemployment, salaries and other metrics. 
+📌 Project Overview<br />
+Project Analyzing Kazakhstan’s Economic &amp; Employment Data for 2024 IV Quarter.<br /> With tools Excel, Python, SQL, Power BI i will provide detailed analysis. The project explores key job market trends in Kazakhstan, analyzing employment, unemployment, salaries and other metrics. 
 
 📂 Data Sources
 
 The large dataset provided by https://stat.gov.kz/ divided by multiple sections that we can use in analyzing special insights more accuratly and select each data for each task. 
 
-Key tables that i used for this project:
+Key tables that for this project:<br />
 1.Population by labor force participation status and age<br />
 2.Employed population<br />
 3.Employed population by employment status and age<br />
